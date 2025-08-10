@@ -6,7 +6,7 @@ from utils import *
 from parameter import *
 from node_manager import NodeManager
 
-
+#test
 class Agent:
     def __init__(self, id, policy_net, node_manager, device='cpu', plot=False):
         self.id = id
